@@ -1,0 +1,8 @@
+//头部搜索按钮
+.btn-a {
+	@include button-variant(#848484, #ebebeb, #ebebeb);
+	border-radius: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
